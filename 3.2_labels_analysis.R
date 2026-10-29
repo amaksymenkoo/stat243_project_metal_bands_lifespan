@@ -1,7 +1,7 @@
 
 library(tidyverse)
 
-setwd("C:/Users/Pochtarusa/Desktop/archive (4)")
+setwd(" ")
 
 # Load datasets
 bands <- read_csv("metal_bands.csv", show_col_types = FALSE)
